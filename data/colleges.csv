@@ -1,0 +1,81 @@
+OPEID,name,city,state,region,median_debt,default_rate,highest_degree,ownership,locale,hbcu,admit_rate,SAT_avg,online_only,enrollment,net_price,avg_cost,net_tuition,ed_spending_per_student,avg_faculty_salary,pct_PELL,pct_fed_loan,grad_rate,pct_firstgen,med_fam_income,med_alum_earnings
+554400,Alexandria Technical & Community College,Alexandria,MN,Midwest,9.262,4.7,Associates,Public,Town,No,,,No,1303,13.636,17.88,3.946,8.273,8.399,20.22,24.28,60.59,26.2564991,49.1675,45.227
+735000,Anoka Technical College,Anoka,MN,Midwest,9.5,6.5,Associates,Public,Suburb,No,,,No,1479,13.236,16.828,4.273,8.333,8.371,33.84,37.7,45.5,37.1482176,30.099,44.164
+233200,Anoka-Ramsey Community College,Coon Rapids,MN,Midwest,8.852,6.7,Associates,Public,Suburb,No,,,No,4698,11.719,15.446,3.377,5.615,8.434,23.05,20.55,24.53,34.1625788,38.207,45.03
+233400,Augsburg University,Minneapolis,MN,Midwest,19.329,5.6,Graduate,Private nonprofit,Large City,No,73.12,1050.0,No,2487,23.898,54.069,15.346,11.258,8.329,48.56,75.78,59.28,28.9012004,41.36,53.472
+233500,Riverland Community College,Austin,MN,Midwest,9.333,10.9,Associates,Public,Town,No,,,No,2099,9.149,14.154,3.644,6.724,8.16,26.99,20.43,39.73,35.6707317,31.963,39.275
+575900,Northwest Technical College,Bemidji,MN,Midwest,9.5,8.6,Associates,Public,Town,No,,,No,558,11.638,16.285,3.112,8.328,7.71,34.0,38.44,35.62,27.4253731,32.0,37.749
+233600,Bemidji State University,Bemidji,MN,Midwest,13.0,3.2,Graduate,Public,Town,No,69.44,1105.0,No,3698,16.033,20.919,5.559,7.343,8.863,29.27,51.41,45.99,27.2524532,57.931,46.619
+233700,Bethany Lutheran College,Mankato,MN,Midwest,17.75,5.0,Bachelors,Private nonprofit,Small City,No,64.51,,No,632,16.107,38.528,10.732,11.053,7.218,23.08,52.5,61.7,,70.558,40.621
+905800,Bethel University,Saint Paul,MN,Midwest,17.827,1.9,Graduate,Private nonprofit,Suburb,No,86.63,1203.0,No,2491,28.178,52.723,16.524,9.611,7.796,23.96,59.89,74.09,18.5825411,77.4255,55.159
+233900,Central Lakes College-Brainerd,Brainerd,MN,Midwest,8.0,10.2,Associates,Public,Town,No,,,No,1671,12.429,16.947,3.118,6.479,8.377,20.59,17.67,42.28,31.71875,30.4635,39.476
+234000,Carleton College,Northfield,MN,Midwest,15.826,0.8,Bachelors,Private nonprofit,Town,No,21.18,1438.0,No,1918,28.928,74.275,34.353,33.282,12.689,13.9,42.46,93.79,15.6812339,78.779,67.132
+234600,Concordia College at Moorhead,Moorhead,MN,Midwest,20.601,2.2,Graduate,Private nonprofit,Suburb,No,58.08,1169.0,No,1873,23.189,53.819,17.094,6.671,7.408,21.3,66.85,67.59,12.6884422,87.417,51.988
+234700,Concordia University-Saint Paul,Saint Paul,MN,Midwest,12.5,3.5,Graduate,Private nonprofit,Large City,No,68.6,,No,3222,15.88,32.686,11.604,4.358,6.474,37.7,57.66,47.52,33.5669236,42.756,53.164
+1040200,Dakota County Technical College,Rosemount,MN,Midwest,7.982,6.1,Associates,Public,Rural,No,,,No,2109,11.044,14.879,4.416,8.09,8.32,30.54,32.43,47.41,31.1565696,39.514,45.691
+236100,Martin Luther College,New Ulm,MN,Midwest,16.5,0.5,Graduate,Private nonprofit,Town,No,87.31,1185.0,No,777,22.205,27.23,13.326,8.894,4.626,26.72,49.01,74.87,,60.9235,40.821
+575700,Lake Superior College,Duluth,MN,Midwest,8.795,9.6,Associates,Public,Small City,No,,,No,2934,14.801,18.178,4.745,7.756,8.099,21.76,25.98,40.05,28.4871245,31.563,42.85
+960000,Cosmetology Careers Unlimited College of Hair Skin and Nails,Duluth,MN,Midwest,9.847,14.6,Certificate,Prviate for-profit,Small City,No,,,No,23,13.875,16.163,9.472,2.89,,41.18,52.94,88.89,,14.779,20.445
+554100,Minnesota State Community and Technical College,Fergus Falls,MN,Midwest,9.25,9.4,Associates,Public,Town,No,,,No,3385,11.244,15.009,3.307,6.647,8.381,27.6,29.97,41.91,30.0653595,32.3985,41.47
+526300,Minnesota West Community and Technical College,Granite Falls,MN,Midwest,9.1,13.0,Associates,Public,Town,No,,,No,1683,11.439,16.333,3.894,7.599,8.079,23.18,21.16,45.36,36.5686275,31.859,39.46
+235300,Gustavus Adolphus College,Saint Peter,MN,Midwest,24.25,1.2,Bachelors,Private nonprofit,Town,No,70.61,,No,2230,24.696,59.205,18.609,16.857,7.567,28.25,62.45,78.3,14.6583851,78.4195,59.178
+235400,Hamline University,Saint Paul,MN,Midwest,15.75,3.2,Graduate,Private nonprofit,Large City,No,68.95,1147.0,No,1907,20.474,51.984,17.585,7.502,8.014,38.84,66.09,65.12,23.2016211,60.017,53.895
+1049100,Hennepin Technical College,Brooklyn Park,MN,Midwest,9.5,9.3,Associates,Public,Suburb,No,,,No,3124,10.726,15.455,3.845,8.805,8.259,31.94,25.32,29.31,37.6470588,26.337,43.39
+235500,Hibbing Community College,Hibbing,MN,Midwest,9.105,9.9,Associates,Public,Town,No,,,No,680,8.736,14.422,5.071,10.109,8.028,40.81,40.81,42.51,33.7001376,29.9585,40.829
+2123200,Aveda Arts & Sciences Institute Minneapolis,Minneapolis,MN,Midwest,6.333,8.3,Certificate,Prviate for-profit,Large City,No,,,No,554,16.667,21.878,11.684,6.363,,34.49,49.49,70.75,28.3882784,41.906,36.802
+974000,Inver Hills Community College,Inver Grove Heights,MN,Midwest,9.269,6.9,Associates,Public,Suburb,No,,,No,2643,11.57,15.246,3.991,6.507,8.411,23.97,21.42,28.47,33.3692142,34.983,47.232
+235600,Itasca Community College,Grand Rapids,MN,Midwest,7.589,14.1,Associates,Public,Town,No,,,No,636,12.084,16.948,3.296,6.037,8.325,32.39,28.34,30.28,27.6946108,33.0715,39.822
+235800,Macalester College,Saint Paul,MN,Midwest,19.27,0.2,Bachelors,Private nonprofit,Large City,No,38.69,1390.0,No,2049,27.764,71.053,25.423,22.586,10.96,18.64,44.33,92.59,12.8256513,88.9915,57.134
+553700,South Central College,North Mankato,MN,Midwest,8.25,11.0,Associates,Public,Suburb,No,,,No,2138,10.358,14.879,4.027,8.542,8.271,41.3,31.93,31.38,36.6827254,31.9165,40.025
+236000,Minnesota State University-Mankato,Mankato,MN,Midwest,14.995,3.6,Graduate,Public,Small City,No,67.26,1105.0,No,11840,17.159,20.858,7.89,8.227,9.79,24.55,50.97,50.97,24.2115972,68.513,51.689
+400900,Mesabi Range College,Virginia,MN,Midwest,8.477,14.4,Associates,Public,Town,No,,,No,597,11.388,16.613,3.174,7.898,8.191,34.28,32.52,30.73,30.6122449,22.694,40.419
+1037400,Metropolitan State University,Saint Paul,MN,Midwest,13.125,4.2,Graduate,Public,Large City,No,61.89,,No,6155,16.044,22.819,5.314,6.209,9.751,45.3,41.87,45.9,37.1321408,28.315,56.402
+396900,University of Minnesota-Twin Cities,Minneapolis,MN,Midwest,16.75,1.7,Graduate,Public,Large City,No,69.64,1320.0,No,30907,17.878,27.654,14.558,16.272,12.182,17.86,36.7,84.26,18.6560199,76.0285,61.201
+406900,University of Minnesota-Crookston,Crookston,MN,Midwest,13.0,5.3,Bachelors,Public,Town,No,72.15,,No,1754,11.593,23.804,5.706,7.253,8.054,21.21,35.51,50.65,29.0398127,51.028,47.869
+236500,Minneapolis College of Art and Design,Minneapolis,MN,Midwest,18.23,1.3,Graduate,Private nonprofit,Large City,No,54.68,,No,656,29.062,53.01,21.314,15.48,7.631,37.24,86.88,63.33,20.8333333,52.219,41.177
+236200,Minneapolis Community and Technical College,Minneapolis,MN,Midwest,10.5,16.1,Associates,Public,Large City,No,,,No,5203,12.908,17.782,2.729,6.088,8.48,42.96,26.68,17.04,38.6980109,19.8865,39.341
+962108,Herzing University-Minneapolis,St. Louis Park,MN,Midwest,11.855,8.4,Graduate,Private nonprofit,Suburb,No,92.06,,No,620,23.164,28.018,12.902,4.538,6.851,55.45,86.77,64.71,52.0903265,18.321,33.093
+2238100,Minnesota School of Cosmetology-Woodbury Campus,WOODBURY,MN,Midwest,6.333,8.2,Certificate,Prviate for-profit,Suburb,No,,,No,149,19.551,21.887,18.219,6.676,,21.78,26.67,69.35,36.2264151,23.941,27.921
+238800,University of Minnesota-Duluth,Duluth,MN,Midwest,16.034,2.6,Graduate,Public,Small City,No,78.55,1169.0,No,8351,18.505,25.326,8.673,7.827,8.622,20.5,51.8,61.5,18.3406114,83.3085,54.75
+238900,University of Minnesota-Morris,Morris,MN,Midwest,12.0,3.4,Bachelors,Public,Town,No,64.65,1199.0,No,1243,10.529,24.636,4.384,12.215,7.536,31.42,45.36,59.85,20.2551834,60.191,47.373
+983100,Model College of Hair Design,Saint Cloud,MN,Midwest,6.635,17.5,Certificate,Prviate for-profit,Small City,No,,,No,75,10.448,15.358,10.909,1.857,,47.52,69.5,68.75,29.6296296,43.665,29.181
+236700,Minnesota State University Moorhead,Moorhead,MN,Midwest,15.0,3.0,Graduate,Public,Suburb,No,66.05,1106.0,No,4207,17.68,22.525,6.082,8.407,9.373,29.84,54.93,54.86,20.1385453,64.366,47.117
+237000,North Hennepin Community College,Brooklyn Park,MN,Midwest,9.25,8.7,Associates,Public,Suburb,No,,,No,3951,10.081,14.41,3.478,5.887,8.361,31.91,20.7,17.24,37.5908222,29.576,47.257
+795400,Normandale Community College,Bloomington,MN,Midwest,8.2,7.4,Associates,Public,Small City,No,,,No,6606,10.854,15.2,3.568,5.481,8.416,30.33,17.75,22.38,34.5918934,30.952,47.191
+236900,North Central University,Minneapolis,MN,Midwest,18.5,3.6,Graduate,Private nonprofit,Large City,No,92.99,1077.0,No,921,22.27,37.644,11.772,5.799,7.09,37.14,65.16,53.49,22.1030043,59.157,40.511
+238500,Northland Community and Technical College,Thief River Falls,MN,Midwest,9.5,11.2,Associates,Public,Town,No,,,No,1947,11.586,15.669,3.928,7.833,8.276,29.44,32.7,42.6,33.0039526,34.571,41.091
+237100,University of Northwestern-St Paul,Saint Paul,MN,Midwest,17.5,2.4,Graduate,Private nonprofit,Suburb,No,92.22,,No,1658,22.56,43.817,14.782,7.81,6.267,17.39,35.84,68.6,16.4277839,69.363,45.104
+1232800,Northwestern Health Sciences University,Bloomington,MN,Midwest,8.25,0.8,Graduate,Private nonprofit,Small City,No,,,No,237,19.132,25.985,24.711,10.793,7.056,24.44,63.17,66.67,24.8677249,28.697,35.057
+999200,Oak Hills Christian College,Bemidji,MN,Midwest,10.0,11.1,Bachelors,Private nonprofit,Town,No,62.7,1009.0,No,98,17.418,30.607,9.652,7.043,4.01,60.0,57.78,32.14,,32.6095,28.224
+553500,Pine Technical & Community College,Pine City,MN,Midwest,9.875,14.3,Associates,Public,Town,No,,,No,559,9.527,14.482,2.405,6.192,7.988,18.3,11.74,16.67,36.0801782,21.078,41.661
+677500,Rainy River Community College,International Falls,MN,Midwest,5.5,19.0,Associates,Public,Town,No,,,No,121,7.489,13.022,3.412,6.401,8.312,39.52,26.19,25.86,30.9677419,25.3065,33.855
+237300,Rochester Community and Technical College,Rochester,MN,Midwest,9.25,9.0,Associates,Public,Small City,No,,,No,3757,15.149,19.165,4.126,7.383,8.724,32.4,27.43,23.94,33.3333333,32.106,42.936
+234100,College of Saint Benedict,Saint Joseph,MN,Midwest,24.247,1.5,Bachelors,Private nonprofit,Suburb,No,84.01,1201.0,No,1662,25.954,60.788,19.165,12.46,8.573,23.23,66.02,85.06,21.4084507,86.6205,56.367
+553400,St Cloud Technical and Community College,Saint Cloud,MN,Midwest,8.204,8.3,Associates,Public,Small City,No,,,No,3307,9.249,13.539,3.203,7.15,8.343,42.33,35.53,34.41,32.0663162,33.4125,46.359
+237700,Saint Cloud State University,Saint Cloud,MN,Midwest,14.37,4.6,Graduate,Public,Small City,No,73.22,1087.0,No,7210,14.581,19.635,6.248,9.135,9.961,25.11,36.68,44.81,26.7662399,51.641,51.372
+237900,Saint Johns University,Collegeville,MN,Midwest,23.25,2.8,Graduate,Private nonprofit,Rural,No,81.38,1193.0,No,1564,25.487,59.972,18.97,13.95,8.683,20.75,61.51,74.44,17.5273865,98.568,68.716
+238000,Saint Mary's University of Minnesota,Winona,MN,Midwest,15.25,2.0,Graduate,Private nonprofit,Town,No,84.1,,No,1315,21.101,49.2,14.731,7.403,6.945,29.99,59.85,61.68,26.1538462,54.7725,54.95
+238200,St Olaf College,Northfield,MN,Midwest,21.5,0.8,Bachelors,Private nonprofit,Town,No,50.81,1309.0,No,2928,24.052,62.88,19.724,18.147,8.799,19.5,49.12,84.82,12.8735632,90.436,60.242
+238300,Crown College,Saint Bonifacius,MN,Midwest,17.75,4.7,Graduate,Private nonprofit,Rural,No,46.89,1063.0,No,729,25.796,41.227,11.604,3.032,5.279,28.19,44.48,60.45,26.5625,50.787,39.89
+234300,The College of Saint Scholastica,Duluth,MN,Midwest,17.188,2.6,Graduate,Private nonprofit,Small City,No,73.31,1205.0,No,2225,22.545,50.923,14.744,9.312,7.043,28.24,61.92,68.63,28.496732,58.385,58.748
+234500,University of St Thomas,Saint Paul,MN,Midwest,19.5,1.4,Graduate,Private nonprofit,Large City,No,87.4,1249.0,No,6276,31.066,57.785,19.846,13.684,10.908,18.42,46.97,80.23,13.7745975,94.9285,67.398
+1260603,Empire Beauty School-Bloomington,Bloomington,MN,Midwest,7.667,13.3,Certificate,Prviate for-profit,Small City,No,,,No,129,16.152,20.827,9.962,9.075,,54.3,56.56,73.08,49.0608565,14.725,26.171
+234200,St Catherine University,Saint Paul,MN,Midwest,19.0,3.1,Graduate,Private nonprofit,Large City,No,76.15,1122.0,No,2914,17.814,50.794,19.145,11.386,7.496,38.31,67.21,63.6,28.8077188,41.238,52.603
+869400,Rasmussen University-Minnesota,St. Cloud,MN,Midwest,12.139,7.8,Graduate,Prviate for-profit,Small City,No,,,No,3745,19.075,22.472,19.046,4.846,7.703,51.78,78.66,35.65,47.5742783,25.1235,35.667
+553300,Saint Paul College,Saint Paul,MN,Midwest,9.0,12.1,Associates,Public,Large City,No,,,No,4324,11.507,16.897,2.635,6.577,8.133,43.95,20.52,31.05,40.2185407,19.971,37.878
+237500,Southwest Minnesota State University,Marshall,MN,Midwest,14.5,5.9,Graduate,Public,Town,No,80.6,1048.0,No,1945,13.872,20.481,4.219,6.339,9.563,10.76,16.14,48.07,26.8946396,51.5715,43.8
+235000,Vermilion Community College,Ely,MN,Midwest,7.855,14.7,Associates,Public,Town,No,,,No,358,14.049,17.922,3.059,5.964,7.772,32.65,43.96,32.37,31.5068493,42.9755,43.965
+464100,Dunwoody College of Technology,Minneapolis,MN,Midwest,12.0,8.5,Bachelors,Private nonprofit,Large City,No,97.38,,No,1274,27.1,31.769,22.656,14.789,5.969,31.59,80.34,49.19,28.2194849,34.1965,54.095
+525200,Ridgewater College,Willmar,MN,Midwest,8.75,8.2,Associates,Public,Town,No,,,No,2488,11.436,15.652,4.022,9.155,8.133,35.55,33.39,44.4,31.4385151,37.5335,39.349
+239300,Minnesota State College Southeast,Winona,MN,Midwest,9.5,7.3,Associates,Public,Town,No,,,No,1124,13.063,17.668,3.906,8.376,8.384,24.04,28.29,37.99,34.5211581,32.21,40.045
+239400,Winona State University,Winona,MN,Midwest,15.114,2.7,Graduate,Public,Town,No,75.18,1118.0,No,6249,17.634,22.003,6.316,8.524,9.392,26.17,58.76,60.77,21.1745514,74.955,51.346
+1054600,Century College,White Bear Lake,MN,Midwest,9.5,7.8,Associates,Public,Suburb,No,,,No,6815,10.397,14.626,3.329,6.114,8.577,35.5,26.47,21.82,34.4372892,29.622,43.353
+3129100,Fond du Lac Tribal and Community College,Cloquet,MN,Midwest,9.966,16.3,Associates,Public,Town,No,,,No,454,10.19,16.024,2.214,7.024,8.068,21.63,18.52,20.83,39.8916968,19.214,38.616
+3267300,Capella University,Minneapolis,MN,Midwest,9.435,5.2,Graduate,Prviate for-profit,Large City,No,,,Yes,11773,16.545,21.167,14.697,2.388,7.179,40.52,39.89,0.0,49.6697334,31.525,59.307
+2097300,Hastings Beauty School,Hastings,MN,Midwest,9.377,3.0,Certificate,Prviate for-profit,Town,No,,,No,14,14.708,17.211,10.264,9.346,,45.83,58.33,80.65,,43.978,
+2160901,PCI Academy-Plymouth,Plymouth,MN,Midwest,5.827,4.0,Certificate,Prviate for-profit,Small City,No,,,No,106,9.242,14.337,12.794,6.791,,6.82,12.5,81.82,33.3333333,38.753,32.787
+4130200,Institute of Production and Recording,Minneapolis,MN,Midwest,9.5,10.9,Bachelors,Prviate for-profit,Large City,No,,,No,128,23.892,29.783,23.422,5.537,4.191,35.29,59.89,64.91,22.3463687,42.8,39.812
+945912,Empire Beauty School-Spring Lake Park,Spring Lake Park,MN,Midwest,8.973,13.7,Certificate,Prviate for-profit,Suburb,No,,,No,79,15.906,19.988,9.546,8.8,,53.13,46.88,48.65,55.2452316,14.091,24.578
+396903,University of Minnesota-Rochester,Rochester,MN,Midwest,16.75,1.7,Bachelors,Public,Small City,No,73.75,1152.0,No,614,15.636,25.495,14.281,5.95,6.875,35.49,54.2,54.46,18.6560199,76.0285,61.201
+4157600,Nova Academy of Cosmetology,Rochester,MN,Midwest,7.817,17.8,Certificate,Prviate for-profit,Small City,No,,,No,130,17.009,20.09,9.112,4.656,,49.44,73.6,72.55,31.3559322,28.358,
+4227800,Bethany Global University,Bloomington,MN,Midwest,10.924,4.7,Graduate,Private nonprofit,Small City,No,86.59,,No,313,21.18,27.284,3.831,3.993,4.941,44.58,48.92,55.56,21.8390805,43.704,
